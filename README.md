@@ -1,2 +1,3 @@
-# End_to_End_Projects
-This repository contains end to end data science projects.
+# Next Word Prediction using LSTM
+Aim-The aim of this project is to train and develop an LSTM model on text data to predict the next words in a sentence.
+
